@@ -1,0 +1,11 @@
+{
+    "title": "format string",
+    "tests": [
+      
+      {
+        "input": "",
+        "output": "",
+        "exit": 255
+      }
+    ]
+}
