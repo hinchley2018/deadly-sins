@@ -1,0 +1,12 @@
+{
+    "title": "buffer overflow",
+    "tests": [
+      
+      {
+        "input": "",
+        "output": "",
+        "exit": 255
+      }
+    ]
+  }
+  
